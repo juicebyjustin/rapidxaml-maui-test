@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RapidXaml.ViewModels
 {
-    public class ItemsViewModels
+    public class ItemsViewModel
     {
         public Models.Item Model { get; set; }
     }
